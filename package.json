@@ -1,0 +1,14 @@
+{
+<<<<<<< HEAD
+  "name": "Camp 2013",
+  "subdomain": "bm_camp_2013",
+  "description": "Sample Angualar Camp Project",
+  "version": "0.0.1",
+  "dependencies": { "angular": "~1.0.6"},
+  "scripts": {
+    "start": "node scripts/web-server.js"
+  },
+  "engines": {
+    "node": "0.6.x"
+  }
+}
